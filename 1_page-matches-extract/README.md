@@ -47,7 +47,7 @@ Example:
     /path/to/volume/ids.txt
 ```
 
-Example `patters.tsv` file:
+Example `patterns.tsv` file:
 ```text
 AAPI    (?<=^|[\s("])(?:AAPI(?:s|S)?\b|A\.A\.P\.I\.\B)
 aboriginal      (?i)\baboriginals?\b

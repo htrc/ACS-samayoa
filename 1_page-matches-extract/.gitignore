@@ -1,0 +1,7 @@
+/.bsp/
+/.clover/
+/.idea/
+/project/project/
+/data/
+target/
+*.class
